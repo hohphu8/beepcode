@@ -1,0 +1,6 @@
+streamlit>=1.37
+numpy==1.26.4
+soundfile>=0.12.1
+streamlit-audiorec
+streamlit-webrtc>=0.47.7
+av>=10.0.0
